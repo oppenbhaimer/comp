@@ -13,7 +13,8 @@ A repository to keep track of problem solving practice, containing solutions fro
 
 | # | Title | Solution | Tags | Submitted |
 |---| ----- | -------- | ---- | --------- |
-4 | [P - Independent Set](https://atcoder.jp/contests/dp/tasks/dp_p) | [C++ 20 (gcc 12.2)](./atcoder/dp/P.cpp) | `AtCoder` `*100` | Sep/13/2023 16:48 | 
-3 | [C - Vacation](https://atcoder.jp/contests/dp/tasks/dp_c) | [C++ 20 (gcc 12.2)](./atcoder/dp/C.cpp) | `AtCoder` `*100` | Sep/13/2023 16:03 | 
-2 | [B - Frog 2](https://atcoder.jp/contests/dp/tasks/dp_b) | [C++ 20 (gcc 12.2)](./atcoder/dp/B.cpp) | `AtCoder` `*100` | Sep/13/2023 15:55 | 
+5 | [P - Independent Set](https://atcoder.jp/contests/dp/tasks/dp_p) | [C++ 20 (gcc 12.2)](./atcoder/dp/P.cpp) | `AtCoder` `*100` | Sep/13/2023 16:48 | 
+4 | [C - Vacation](https://atcoder.jp/contests/dp/tasks/dp_c) | [C++ 20 (gcc 12.2)](./atcoder/dp/C.cpp) | `AtCoder` `*100` | Sep/13/2023 16:03 | 
+3 | [B - Frog 2](https://atcoder.jp/contests/dp/tasks/dp_b) | [C++ 20 (gcc 12.2)](./atcoder/dp/B.cpp) | `AtCoder` `*100` | Sep/13/2023 15:55 | 
+2 | [A - Frog 1](https://atcoder.jp/contests/dp/tasks/dp_a) | [C++ 20 (gcc 12.2)](./atcoder/dp/A.cpp) | `AtCoder` `*100` | Sep/13/2023 15:51 | 
 1 | [A - Tales of a Sort](https://codeforces.com/contest/1856/problem/A) | [GNU C++17](./codeforces/1856/A.cpp) | `implementation` `*800` | Aug/05/2023 20:29 | 
