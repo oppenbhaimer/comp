@@ -197,5 +197,22 @@
       "dp"
     ],
     "timestamp": "Sep/16/2023 19:42"
+  },
+  "CF223771077": {
+    "contest_id": 1872,
+    "language": "GNU C++20 (64)",
+    "path": "codeforces/1872/G.cpp",
+    "platform": "Codeforces",
+    "problem_index": "G",
+    "problem_name": "Replace With Product",
+    "problem_url": "https://codeforces.com/contest/1872/problem/G",
+    "submission_id": "CF223771077",
+    "submission_url": "https://codeforces.com/contest/1872/submission/223771077",
+    "tags": [
+      "brute force",
+      "greedy",
+      "math"
+    ],
+    "timestamp": "Sep/18/2023 01:30"
   }
 }

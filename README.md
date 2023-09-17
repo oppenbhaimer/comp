@@ -13,6 +13,7 @@ A repository to keep track of problem solving practice, containing solutions fro
 
 | # | Title | Solution | Tags | Submitted |
 |---| ----- | -------- | ---- | --------- |
+13 | [G - Replace With Product](https://codeforces.com/contest/1872/problem/G) | [GNU C++20 (64)](./codeforces/1872/G.cpp) | `brute force` `greedy` `math` | Sep/18/2023 01:30 | 
 12 | [E - Data Structures Fan](https://codeforces.com/contest/1872/problem/E) | [GNU C++20 (64)](./codeforces/1872/E.cpp) | `binary search` `bitmasks` `data structures` `dp` | Sep/16/2023 19:42 | 
 11 | [D - Plus Minus Permutation](https://codeforces.com/contest/1872/problem/D) | [GNU C++20 (64)](./codeforces/1872/D.cpp) | `math` | Sep/16/2023 19:21 | 
 10 | [C - Non-coprime Split](https://codeforces.com/contest/1872/problem/C) | [GNU C++20 (64)](./codeforces/1872/C.cpp) | `math` `number theory` | Sep/16/2023 19:01 | 
