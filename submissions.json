@@ -215,6 +215,23 @@
     ],
     "timestamp": "Sep/18/2023 01:30"
   },
+  "CF223872828": {
+    "contest_id": 1870,
+    "language": "GNU C++20 (64)",
+    "path": "codeforces/1870/A.cpp",
+    "platform": "Codeforces",
+    "problem_index": "A",
+    "problem_name": "MEXanized Array",
+    "problem_url": "https://codeforces.com/contest/1870/problem/A",
+    "submission_id": "CF223872828",
+    "submission_url": "https://codeforces.com/contest/1870/submission/223872828",
+    "tags": [
+      "constructive algorithms",
+      "greedy",
+      "math"
+    ],
+    "timestamp": "Sep/18/2023 20:34"
+  },
   "CF223916552": {
     "contest_id": 1870,
     "language": "GNU C++20 (64)",
