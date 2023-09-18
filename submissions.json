@@ -215,6 +215,26 @@
     ],
     "timestamp": "Sep/18/2023 01:30"
   },
+  "CF223916552": {
+    "contest_id": 1870,
+    "language": "GNU C++20 (64)",
+    "path": "codeforces/1870/C.cpp",
+    "platform": "Codeforces",
+    "problem_index": "C",
+    "problem_name": "Colorful Table",
+    "problem_url": "https://codeforces.com/contest/1870/problem/C",
+    "submission_id": "CF223916552",
+    "submission_url": "https://codeforces.com/contest/1870/submission/223916552",
+    "tags": [
+      "binary search",
+      "data structures",
+      "dp",
+      "implementation",
+      "math",
+      "two pointers"
+    ],
+    "timestamp": "Sep/18/2023 22:15"
+  },
   "CF224191139": {
     "contest_id": 1870,
     "language": "GNU C++20 (64)",

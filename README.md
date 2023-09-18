@@ -13,15 +13,16 @@ A repository to keep track of problem solving practice, containing solutions fro
 
 | # | Title | Solution | Tags | Submitted |
 |---| ----- | -------- | ---- | --------- |
-22 | [F - Selling a Menagerie](https://codeforces.com/contest/1872/problem/F) | [GNU C++20 (64)](./codeforces/1872/F.cpp) | `dfs and similar` `dsu` `graphs` `implementation` `math` | Sep/22/2023 13:36 | 
-21 | [D - 1D Eraser](https://codeforces.com/contest/1873/problem/D) | [GNU C++20 (64)](./codeforces/1873/D.cpp) | `greedy` `implementation` | Sep/21/2023 20:37 | 
-20 | [G - ABBC or BACB](https://codeforces.com/contest/1873/problem/G) | [GNU C++20 (64)](./codeforces/1873/G.cpp) | `dp` `greedy` | Sep/21/2023 20:36 | 
-19 | [C - Target Practice](https://codeforces.com/contest/1873/problem/C) | [GNU C++20 (64)](./codeforces/1873/C.cpp) | `implementation` `math` | Sep/21/2023 20:14 | 
-18 | [B - Good Kid](https://codeforces.com/contest/1873/problem/B) | [GNU C++20 (64)](./codeforces/1873/B.cpp) | `brute force` `brute force` `brute force` `greedy` `math` | Sep/21/2023 20:09 | 
-17 | [A - Short Sort](https://codeforces.com/contest/1873/problem/A) | [GNU C++20 (64)](./codeforces/1873/A.cpp) | `brute force` `implementation` | Sep/21/2023 20:06 | 
-16 | [B - 2D Traveling](https://codeforces.com/contest/1869/problem/B) | [GNU C++20 (64)](./codeforces/1869/B.cpp) | `geometry` `math` `shortest paths` `sortings` | Sep/20/2023 21:36 | 
-15 | [A - Make It Zero](https://codeforces.com/contest/1869/problem/A) | [GNU C++20 (64)](./codeforces/1869/A.cpp) | `constructive algorithms` | Sep/20/2023 21:28 | 
-14 | [B - Friendly Arrays](https://codeforces.com/contest/1870/problem/B) | [GNU C++20 (64)](./codeforces/1870/B.cpp) | `bitmasks` `greedy` `math` | Sep/20/2023 21:03 | 
+23 | [F - Selling a Menagerie](https://codeforces.com/contest/1872/problem/F) | [GNU C++20 (64)](./codeforces/1872/F.cpp) | `dfs and similar` `dsu` `graphs` `implementation` `math` | Sep/22/2023 13:36 | 
+22 | [D - 1D Eraser](https://codeforces.com/contest/1873/problem/D) | [GNU C++20 (64)](./codeforces/1873/D.cpp) | `greedy` `implementation` | Sep/21/2023 20:37 | 
+21 | [G - ABBC or BACB](https://codeforces.com/contest/1873/problem/G) | [GNU C++20 (64)](./codeforces/1873/G.cpp) | `dp` `greedy` | Sep/21/2023 20:36 | 
+20 | [C - Target Practice](https://codeforces.com/contest/1873/problem/C) | [GNU C++20 (64)](./codeforces/1873/C.cpp) | `implementation` `math` | Sep/21/2023 20:14 | 
+19 | [B - Good Kid](https://codeforces.com/contest/1873/problem/B) | [GNU C++20 (64)](./codeforces/1873/B.cpp) | `brute force` `brute force` `brute force` `greedy` `math` | Sep/21/2023 20:09 | 
+18 | [A - Short Sort](https://codeforces.com/contest/1873/problem/A) | [GNU C++20 (64)](./codeforces/1873/A.cpp) | `brute force` `implementation` | Sep/21/2023 20:06 | 
+17 | [B - 2D Traveling](https://codeforces.com/contest/1869/problem/B) | [GNU C++20 (64)](./codeforces/1869/B.cpp) | `geometry` `math` `shortest paths` `sortings` | Sep/20/2023 21:36 | 
+16 | [A - Make It Zero](https://codeforces.com/contest/1869/problem/A) | [GNU C++20 (64)](./codeforces/1869/A.cpp) | `constructive algorithms` | Sep/20/2023 21:28 | 
+15 | [B - Friendly Arrays](https://codeforces.com/contest/1870/problem/B) | [GNU C++20 (64)](./codeforces/1870/B.cpp) | `bitmasks` `greedy` `math` | Sep/20/2023 21:03 | 
+14 | [C - Colorful Table](https://codeforces.com/contest/1870/problem/C) | [GNU C++20 (64)](./codeforces/1870/C.cpp) | `binary search` `data structures` `dp` `implementation` `math` `two pointers` | Sep/18/2023 22:15 | 
 13 | [G - Replace With Product](https://codeforces.com/contest/1872/problem/G) | [GNU C++20 (64)](./codeforces/1872/G.cpp) | `brute force` `greedy` `math` | Sep/18/2023 01:30 | 
 12 | [E - Data Structures Fan](https://codeforces.com/contest/1872/problem/E) | [GNU C++20 (64)](./codeforces/1872/E.cpp) | `binary search` `bitmasks` `data structures` `dp` | Sep/16/2023 19:42 | 
 11 | [D - Plus Minus Permutation](https://codeforces.com/contest/1872/problem/D) | [GNU C++20 (64)](./codeforces/1872/D.cpp) | `math` | Sep/16/2023 19:21 | 
