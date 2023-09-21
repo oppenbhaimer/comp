@@ -13,14 +13,15 @@ A repository to keep track of problem solving practice, containing solutions fro
 
 | # | Title | Solution | Tags | Submitted |
 |---| ----- | -------- | ---- | --------- |
-31 | [D - In Love](https://codeforces.com/contest/1883/problem/D) | [GNU C++20 (64)](./codeforces/1883/D.cpp) | `data structures` | Oct/23/2023 10:38 | 
-30 | [C - Raspberries](https://codeforces.com/contest/1883/problem/C) | [GNU C++20 (64)](./codeforces/1883/C.cpp) | `math` | Oct/22/2023 16:57 | 
-29 | [B - Chemistry](https://codeforces.com/contest/1883/problem/B) | [GNU C++20 (64)](./codeforces/1883/B.cpp) | `strings` | Oct/22/2023 16:48 | 
-28 | [A - Morning](https://codeforces.com/contest/1883/problem/A) | [GNU C++20 (64)](./codeforces/1883/A.cpp) | `math` | Oct/22/2023 16:40 | 
-27 | [A - Jellyfish and Undertale](https://codeforces.com/contest/1875/problem/A) | [GNU C++20 (64)](./codeforces/1875/A.cpp) | `brute force` `greedy` | Oct/22/2023 16:18 | 
-26 | [F - Selling a Menagerie](https://codeforces.com/contest/1872/problem/F) | [GNU C++20 (64)](./codeforces/1872/F.cpp) | `dfs and similar` `dsu` `graphs` `implementation` `math` | Sep/22/2023 13:36 | 
-25 | [H - Mad City](https://codeforces.com/contest/1873/problem/H) | [GNU C++20 (64)](./codeforces/1873/H.cpp) | `dfs and similar` `dsu` `games` `graphs` `shortest paths` `trees` `*1700` | Sep/21/2023 22:33 | 
-24 | [F - Money Trees](https://codeforces.com/contest/1873/problem/F) | [GNU C++20 (64)](./codeforces/1873/F.cpp) | `binary search` `greedy` `math` `two pointers` `*1300` | Sep/21/2023 21:39 | 
+32 | [D - In Love](https://codeforces.com/contest/1883/problem/D) | [GNU C++20 (64)](./codeforces/1883/D.cpp) | `data structures` | Oct/23/2023 10:38 | 
+31 | [C - Raspberries](https://codeforces.com/contest/1883/problem/C) | [GNU C++20 (64)](./codeforces/1883/C.cpp) | `math` | Oct/22/2023 16:57 | 
+30 | [B - Chemistry](https://codeforces.com/contest/1883/problem/B) | [GNU C++20 (64)](./codeforces/1883/B.cpp) | `strings` | Oct/22/2023 16:48 | 
+29 | [A - Morning](https://codeforces.com/contest/1883/problem/A) | [GNU C++20 (64)](./codeforces/1883/A.cpp) | `math` | Oct/22/2023 16:40 | 
+28 | [A - Jellyfish and Undertale](https://codeforces.com/contest/1875/problem/A) | [GNU C++20 (64)](./codeforces/1875/A.cpp) | `brute force` `greedy` | Oct/22/2023 16:18 | 
+27 | [F - Selling a Menagerie](https://codeforces.com/contest/1872/problem/F) | [GNU C++20 (64)](./codeforces/1872/F.cpp) | `dfs and similar` `dsu` `graphs` `implementation` `math` | Sep/22/2023 13:36 | 
+26 | [H - Mad City](https://codeforces.com/contest/1873/problem/H) | [GNU C++20 (64)](./codeforces/1873/H.cpp) | `dfs and similar` `dsu` `games` `graphs` `shortest paths` `trees` `*1700` | Sep/21/2023 22:33 | 
+25 | [F - Money Trees](https://codeforces.com/contest/1873/problem/F) | [GNU C++20 (64)](./codeforces/1873/F.cpp) | `binary search` `greedy` `math` `two pointers` `*1300` | Sep/21/2023 21:39 | 
+24 | [E - Building an Aquarium](https://codeforces.com/contest/1873/problem/E) | [GNU C++20 (64)](./codeforces/1873/E.cpp) | `binary search` `sortings` `*1100` | Sep/21/2023 20:59 | 
 23 | [D - 1D Eraser](https://codeforces.com/contest/1873/problem/D) | [GNU C++20 (64)](./codeforces/1873/D.cpp) | `greedy` `implementation` | Sep/21/2023 20:37 | 
 22 | [G - ABBC or BACB](https://codeforces.com/contest/1873/problem/G) | [GNU C++20 (64)](./codeforces/1873/G.cpp) | `dp` `greedy` | Sep/21/2023 20:36 | 
 21 | [C - Target Practice](https://codeforces.com/contest/1873/problem/C) | [GNU C++20 (64)](./codeforces/1873/C.cpp) | `implementation` `math` | Sep/21/2023 20:14 | 
