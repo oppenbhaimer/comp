@@ -215,6 +215,22 @@
     ],
     "timestamp": "Sep/18/2023 01:30"
   },
+  "CF224378042": {
+    "contest_id": 1873,
+    "language": "GNU C++20 (64)",
+    "path": "codeforces/1873/D.cpp",
+    "platform": "Codeforces",
+    "problem_index": "D",
+    "problem_name": "1D Eraser",
+    "problem_url": "https://codeforces.com/contest/1873/problem/D",
+    "submission_id": "CF224378042",
+    "submission_url": "https://codeforces.com/contest/1873/submission/224378042",
+    "tags": [
+      "greedy",
+      "implementation"
+    ],
+    "timestamp": "Sep/21/2023 20:37"
+  },
   "CF224575970": {
     "contest_id": 1872,
     "language": "GNU C++20 (64)",
