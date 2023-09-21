@@ -215,6 +215,22 @@
     ],
     "timestamp": "Sep/18/2023 01:30"
   },
+  "CF224376378": {
+    "contest_id": 1873,
+    "language": "GNU C++20 (64)",
+    "path": "codeforces/1873/G.cpp",
+    "platform": "Codeforces",
+    "problem_index": "G",
+    "problem_name": "ABBC or BACB",
+    "problem_url": "https://codeforces.com/contest/1873/problem/G",
+    "submission_id": "CF224376378",
+    "submission_url": "https://codeforces.com/contest/1873/submission/224376378",
+    "tags": [
+      "dp",
+      "greedy"
+    ],
+    "timestamp": "Sep/21/2023 20:36"
+  },
   "CF224378042": {
     "contest_id": 1873,
     "language": "GNU C++20 (64)",
