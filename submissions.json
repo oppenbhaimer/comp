@@ -214,5 +214,24 @@
       "math"
     ],
     "timestamp": "Sep/18/2023 01:30"
+  },
+  "CF224575970": {
+    "contest_id": 1872,
+    "language": "GNU C++20 (64)",
+    "path": "codeforces/1872/F.cpp",
+    "platform": "Codeforces",
+    "problem_index": "F",
+    "problem_name": "Selling a Menagerie",
+    "problem_url": "https://codeforces.com/contest/1872/problem/F",
+    "submission_id": "CF224575970",
+    "submission_url": "https://codeforces.com/contest/1872/submission/224575970",
+    "tags": [
+      "dfs and similar",
+      "dsu",
+      "graphs",
+      "implementation",
+      "math"
+    ],
+    "timestamp": "Sep/22/2023 13:36"
   }
 }
