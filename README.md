@@ -13,7 +13,8 @@ A repository to keep track of problem solving practice, containing solutions fro
 
 | # | Title | Solution | Tags | Submitted |
 |---| ----- | -------- | ---- | --------- |
-25 | [D - In Love](https://codeforces.com/contest/1883/problem/D) | [GNU C++20 (64)](./codeforces/1883/D.cpp) | `data structures` | Oct/23/2023 10:38 | 
+26 | [D - In Love](https://codeforces.com/contest/1883/problem/D) | [GNU C++20 (64)](./codeforces/1883/D.cpp) | `data structures` | Oct/23/2023 10:38 | 
+25 | [C - Raspberries](https://codeforces.com/contest/1883/problem/C) | [GNU C++20 (64)](./codeforces/1883/C.cpp) | `math` | Oct/22/2023 16:57 | 
 24 | [F - Selling a Menagerie](https://codeforces.com/contest/1872/problem/F) | [GNU C++20 (64)](./codeforces/1872/F.cpp) | `dfs and similar` `dsu` `graphs` `implementation` `math` | Sep/22/2023 13:36 | 
 23 | [D - 1D Eraser](https://codeforces.com/contest/1873/problem/D) | [GNU C++20 (64)](./codeforces/1873/D.cpp) | `greedy` `implementation` | Sep/21/2023 20:37 | 
 22 | [G - ABBC or BACB](https://codeforces.com/contest/1873/problem/G) | [GNU C++20 (64)](./codeforces/1873/G.cpp) | `dp` `greedy` | Sep/21/2023 20:36 | 

@@ -404,6 +404,21 @@
     ],
     "timestamp": "Sep/22/2023 13:36"
   },
+  "CF229223336": {
+    "contest_id": 1883,
+    "language": "GNU C++20 (64)",
+    "path": "codeforces/1883/C.cpp",
+    "platform": "Codeforces",
+    "problem_index": "C",
+    "problem_name": "Raspberries",
+    "problem_url": "https://codeforces.com/contest/1883/problem/C",
+    "submission_id": "CF229223336",
+    "submission_url": "https://codeforces.com/contest/1883/submission/229223336",
+    "tags": [
+      "math"
+    ],
+    "timestamp": "Oct/22/2023 16:57"
+  },
   "CF229369999": {
     "contest_id": 1883,
     "language": "GNU C++20 (64)",
