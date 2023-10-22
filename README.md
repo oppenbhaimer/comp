@@ -13,10 +13,11 @@ A repository to keep track of problem solving practice, containing solutions fro
 
 | # | Title | Solution | Tags | Submitted |
 |---| ----- | -------- | ---- | --------- |
-28 | [D - In Love](https://codeforces.com/contest/1883/problem/D) | [GNU C++20 (64)](./codeforces/1883/D.cpp) | `data structures` | Oct/23/2023 10:38 | 
-27 | [C - Raspberries](https://codeforces.com/contest/1883/problem/C) | [GNU C++20 (64)](./codeforces/1883/C.cpp) | `math` | Oct/22/2023 16:57 | 
-26 | [B - Chemistry](https://codeforces.com/contest/1883/problem/B) | [GNU C++20 (64)](./codeforces/1883/B.cpp) | `strings` | Oct/22/2023 16:48 | 
-25 | [A - Morning](https://codeforces.com/contest/1883/problem/A) | [GNU C++20 (64)](./codeforces/1883/A.cpp) | `math` | Oct/22/2023 16:40 | 
+29 | [D - In Love](https://codeforces.com/contest/1883/problem/D) | [GNU C++20 (64)](./codeforces/1883/D.cpp) | `data structures` | Oct/23/2023 10:38 | 
+28 | [C - Raspberries](https://codeforces.com/contest/1883/problem/C) | [GNU C++20 (64)](./codeforces/1883/C.cpp) | `math` | Oct/22/2023 16:57 | 
+27 | [B - Chemistry](https://codeforces.com/contest/1883/problem/B) | [GNU C++20 (64)](./codeforces/1883/B.cpp) | `strings` | Oct/22/2023 16:48 | 
+26 | [A - Morning](https://codeforces.com/contest/1883/problem/A) | [GNU C++20 (64)](./codeforces/1883/A.cpp) | `math` | Oct/22/2023 16:40 | 
+25 | [A - Jellyfish and Undertale](https://codeforces.com/contest/1875/problem/A) | [GNU C++20 (64)](./codeforces/1875/A.cpp) | `brute force` `greedy` | Oct/22/2023 16:18 | 
 24 | [F - Selling a Menagerie](https://codeforces.com/contest/1872/problem/F) | [GNU C++20 (64)](./codeforces/1872/F.cpp) | `dfs and similar` `dsu` `graphs` `implementation` `math` | Sep/22/2023 13:36 | 
 23 | [D - 1D Eraser](https://codeforces.com/contest/1873/problem/D) | [GNU C++20 (64)](./codeforces/1873/D.cpp) | `greedy` `implementation` | Sep/21/2023 20:37 | 
 22 | [G - ABBC or BACB](https://codeforces.com/contest/1873/problem/G) | [GNU C++20 (64)](./codeforces/1873/G.cpp) | `dp` `greedy` | Sep/21/2023 20:36 | 
