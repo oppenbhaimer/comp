@@ -403,5 +403,20 @@
       "math"
     ],
     "timestamp": "Sep/22/2023 13:36"
+  },
+  "CF229369999": {
+    "contest_id": 1883,
+    "language": "GNU C++20 (64)",
+    "path": "codeforces/1883/D.cpp",
+    "platform": "Codeforces",
+    "problem_index": "D",
+    "problem_name": "In Love",
+    "problem_url": "https://codeforces.com/contest/1883/problem/D",
+    "submission_id": "CF229369999",
+    "submission_url": "https://codeforces.com/contest/1883/submission/229369999",
+    "tags": [
+      "data structures"
+    ],
+    "timestamp": "Oct/23/2023 10:38"
   }
 }
