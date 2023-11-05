@@ -13,6 +13,7 @@ A repository to keep track of problem solving practice, containing solutions fro
 
 | # | Title | Solution | Tags | Submitted |
 |---| ----- | -------- | ---- | --------- |
+34 | [D - Fish Graph](https://codeforces.com/contest/1818/problem/D) | [GNU C++20 (64)](./codeforces/1818/D.cpp) | `brute force` `dfs and similar` `graphs` `implementation` `*1900` | Nov/05/2023 21:54 | 
 33 | [D - In Love](https://codeforces.com/contest/1883/problem/D) | [GNU C++20 (64)](./codeforces/1883/D.cpp) | `data structures` | Oct/23/2023 10:38 | 
 32 | [C - Raspberries](https://codeforces.com/contest/1883/problem/C) | [GNU C++20 (64)](./codeforces/1883/C.cpp) | `math` | Oct/22/2023 16:57 | 
 31 | [B - Chemistry](https://codeforces.com/contest/1883/problem/B) | [GNU C++20 (64)](./codeforces/1883/B.cpp) | `strings` | Oct/22/2023 16:48 | 
