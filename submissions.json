@@ -663,5 +663,22 @@
       "*800"
     ],
     "timestamp": "Nov/12/2023 18:55"
+  },
+  "CF232510957": {
+    "contest_id": 895,
+    "language": "GNU C++20 (64)",
+    "path": "codeforces/895/A.cpp",
+    "platform": "Codeforces",
+    "problem_index": "A",
+    "problem_name": "Pizza Separation",
+    "problem_url": "https://codeforces.com/contest/895/problem/A",
+    "submission_id": "CF232510957",
+    "submission_url": "https://codeforces.com/contest/895/submission/232510957",
+    "tags": [
+      "brute force",
+      "implementation",
+      "*1200"
+    ],
+    "timestamp": "Nov/12/2023 19:05"
   }
 }
