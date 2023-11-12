@@ -6,13 +6,13 @@ Submissions
 
 A repository to keep track of problem solving practice, containing solutions from platforms:
 * Codeforces &nbsp; [![Codeforces](https://cp-logo.vercel.app/codeforces/oppenbhaimer)](https://codeforces.com/profile/oppenbhaimer)
-* AtCoder &nbsp; [![AtCoder](https://cp-logo.vercel.app/atcoder/oppenbhaimer)](https://atcoder.jp/users/oppenbhaimer)
 
 
 ## Contents
 
 | # | Title | Solution | Tags | Submitted |
 |---| ----- | -------- | ---- | --------- |
+39 | [A - QAQ](https://codeforces.com/contest/894/problem/A) | [GNU C++20 (64)](./codeforces/894/A.cpp) | `brute force` `dp` `*800` | Nov/12/2023 18:55 | 
 38 | [D - Fish Graph](https://codeforces.com/contest/1818/problem/D) | [GNU C++20 (64)](./codeforces/1818/D.cpp) | `brute force` `dfs and similar` `graphs` `implementation` `*1900` | Nov/05/2023 21:54 | 
 37 | [B - Deja Vu](https://codeforces.com/contest/1891/problem/B) | [GNU C++20 (64)](./codeforces/1891/B.cpp) | `brute force` `math` `sortings` `*1100` | Oct/30/2023 20:27 | 
 36 | [A - Sorting with Twos](https://codeforces.com/contest/1891/problem/A) | [GNU C++20 (64)](./codeforces/1891/A.cpp) | `constructive algorithms` `sortings` `*800` | Oct/30/2023 20:14 | 
