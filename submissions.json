@@ -681,6 +681,22 @@
     ],
     "timestamp": "Nov/12/2023 19:05"
   },
+  "CF232789684": {
+    "contest_id": 1881,
+    "language": "GNU C++20 (64)",
+    "path": "codeforces/1881/B.cpp",
+    "platform": "Codeforces",
+    "problem_index": "B",
+    "problem_name": "Three Threadlets",
+    "problem_url": "https://codeforces.com/contest/1881/problem/B",
+    "submission_id": "CF232789684",
+    "submission_url": "https://codeforces.com/contest/1881/submission/232789684",
+    "tags": [
+      "math",
+      "*900"
+    ],
+    "timestamp": "Nov/14/2023 23:47"
+  },
   "CF232792400": {
     "contest_id": 1881,
     "language": "GNU C++20 (64)",

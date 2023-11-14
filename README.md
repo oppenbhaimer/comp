@@ -12,9 +12,10 @@ A repository to keep track of problem solving practice, containing solutions fro
 
 | # | Title | Solution | Tags | Submitted |
 |---| ----- | -------- | ---- | --------- |
-43 | [E - Block Sequence](https://codeforces.com/contest/1881/problem/E) | [GNU C++20 (64)](./codeforces/1881/E.cpp) | `dp` `*1500` | Nov/15/2023 10:55 | 
-42 | [D - Divide and Equalize](https://codeforces.com/contest/1881/problem/D) | [GNU C++20 (64)](./codeforces/1881/D.cpp) | `math` `number theory` `*1300` | Nov/15/2023 00:41 | 
-41 | [C - Perfect Square](https://codeforces.com/contest/1881/problem/C) | [GNU C++20 (64)](./codeforces/1881/C.cpp) | `brute force` `implementation` `*1200` | Nov/15/2023 00:20 | 
+44 | [E - Block Sequence](https://codeforces.com/contest/1881/problem/E) | [GNU C++20 (64)](./codeforces/1881/E.cpp) | `dp` `*1500` | Nov/15/2023 10:55 | 
+43 | [D - Divide and Equalize](https://codeforces.com/contest/1881/problem/D) | [GNU C++20 (64)](./codeforces/1881/D.cpp) | `math` `number theory` `*1300` | Nov/15/2023 00:41 | 
+42 | [C - Perfect Square](https://codeforces.com/contest/1881/problem/C) | [GNU C++20 (64)](./codeforces/1881/C.cpp) | `brute force` `implementation` `*1200` | Nov/15/2023 00:20 | 
+41 | [B - Three Threadlets](https://codeforces.com/contest/1881/problem/B) | [GNU C++20 (64)](./codeforces/1881/B.cpp) | `math` `*900` | Nov/14/2023 23:47 | 
 40 | [A - Pizza Separation](https://codeforces.com/contest/895/problem/A) | [GNU C++20 (64)](./codeforces/895/A.cpp) | `brute force` `implementation` `*1200` | Nov/12/2023 19:05 | 
 39 | [A - QAQ](https://codeforces.com/contest/894/problem/A) | [GNU C++20 (64)](./codeforces/894/A.cpp) | `brute force` `dp` `*800` | Nov/12/2023 18:55 | 
 38 | [D - Fish Graph](https://codeforces.com/contest/1818/problem/D) | [GNU C++20 (64)](./codeforces/1818/D.cpp) | `brute force` `dfs and similar` `graphs` `implementation` `*1900` | Nov/05/2023 21:54 | 
