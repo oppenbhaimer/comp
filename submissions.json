@@ -681,6 +681,23 @@
     ],
     "timestamp": "Nov/12/2023 19:05"
   },
+  "CF232788801": {
+    "contest_id": 1881,
+    "language": "GNU C++20 (64)",
+    "path": "codeforces/1881/A.cpp",
+    "platform": "Codeforces",
+    "problem_index": "A",
+    "problem_name": "Don't Try to Count",
+    "problem_url": "https://codeforces.com/contest/1881/problem/A",
+    "submission_id": "CF232788801",
+    "submission_url": "https://codeforces.com/contest/1881/submission/232788801",
+    "tags": [
+      "brute force",
+      "strings",
+      "*800"
+    ],
+    "timestamp": "Nov/14/2023 23:37"
+  },
   "CF232789684": {
     "contest_id": 1881,
     "language": "GNU C++20 (64)",
