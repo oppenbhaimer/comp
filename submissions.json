@@ -764,6 +764,26 @@
     ],
     "timestamp": "Nov/15/2023 10:55"
   },
+  "CF232882410": {
+    "contest_id": 1881,
+    "language": "GNU C++20 (64)",
+    "path": "codeforces/1881/F.cpp",
+    "platform": "Codeforces",
+    "problem_index": "F",
+    "problem_name": "Minimum Maximum Distance",
+    "problem_url": "https://codeforces.com/contest/1881/problem/F",
+    "submission_id": "CF232882410",
+    "submission_url": "https://codeforces.com/contest/1881/submission/232882410",
+    "tags": [
+      "dfs and similar",
+      "dp",
+      "graphs",
+      "shortest paths",
+      "trees",
+      "*1700"
+    ],
+    "timestamp": "Nov/15/2023 21:55"
+  },
   "CF232924913": {
     "contest_id": 1833,
     "language": "GNU C++20 (64)",

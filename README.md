@@ -12,15 +12,16 @@ A repository to keep track of problem solving practice, containing solutions fro
 
 | # | Title | Solution | Tags | Submitted |
 |---| ----- | -------- | ---- | --------- |
-54 | [E - Kolya and Movie Theatre](https://codeforces.com/contest/1862/problem/E) | [GNU C++20 (64)](./codeforces/1862/E.cpp) | `constructive algorithms` `data structures` `greedy` `*1600` | Nov/17/2023 00:12 | 
-53 | [F - Magic Will Save the World](https://codeforces.com/contest/1862/problem/F) | [GNU C++20 (64)](./codeforces/1862/F.cpp) | `binary search` `bitmasks` `brute force` `dp` `*1800` | Nov/16/2023 23:57 | 
-52 | [D - Ice Cream Balls](https://codeforces.com/contest/1862/problem/D) | [Java 21](./codeforces/1862/D.java) | `binary search` `combinatorics` `constructive algorithms` `math` `*1300` | Nov/16/2023 21:22 | 
-51 | [C - Flower City Fence](https://codeforces.com/contest/1862/problem/C) | [GNU C++20 (64)](./codeforces/1862/C.cpp) | `binary search` `data structures` `implementation` `sortings` `*1100` | Nov/16/2023 20:49 | 
-50 | [B - Sequence Game](https://codeforces.com/contest/1862/problem/B) | [GNU C++20 (64)](./codeforces/1862/B.cpp) | `constructive algorithms` `*800` | Nov/16/2023 20:27 | 
-49 | [A - Gift Carpet](https://codeforces.com/contest/1862/problem/A) | [GNU C++20 (64)](./codeforces/1862/A.cpp) | `dp` `greedy` `implementation` `strings` `*800` | Nov/16/2023 20:12 | 
-48 | [C - Vlad Building Beautiful Array](https://codeforces.com/contest/1833/problem/C) | [GNU C++20 (64)](./codeforces/1833/C.cpp) | `greedy` `math` `*800` | Nov/16/2023 11:31 | 
-47 | [B - Restore the Weather](https://codeforces.com/contest/1833/problem/B) | [GNU C++20 (64)](./codeforces/1833/B.cpp) | `greedy` `sortings` `*900` | Nov/16/2023 11:14 | 
-46 | [A - Musical Puzzle](https://codeforces.com/contest/1833/problem/A) | [GNU C++20 (64)](./codeforces/1833/A.cpp) | `implementation` `strings` `*800` | Nov/16/2023 10:43 | 
+55 | [E - Kolya and Movie Theatre](https://codeforces.com/contest/1862/problem/E) | [GNU C++20 (64)](./codeforces/1862/E.cpp) | `constructive algorithms` `data structures` `greedy` `*1600` | Nov/17/2023 00:12 | 
+54 | [F - Magic Will Save the World](https://codeforces.com/contest/1862/problem/F) | [GNU C++20 (64)](./codeforces/1862/F.cpp) | `binary search` `bitmasks` `brute force` `dp` `*1800` | Nov/16/2023 23:57 | 
+53 | [D - Ice Cream Balls](https://codeforces.com/contest/1862/problem/D) | [Java 21](./codeforces/1862/D.java) | `binary search` `combinatorics` `constructive algorithms` `math` `*1300` | Nov/16/2023 21:22 | 
+52 | [C - Flower City Fence](https://codeforces.com/contest/1862/problem/C) | [GNU C++20 (64)](./codeforces/1862/C.cpp) | `binary search` `data structures` `implementation` `sortings` `*1100` | Nov/16/2023 20:49 | 
+51 | [B - Sequence Game](https://codeforces.com/contest/1862/problem/B) | [GNU C++20 (64)](./codeforces/1862/B.cpp) | `constructive algorithms` `*800` | Nov/16/2023 20:27 | 
+50 | [A - Gift Carpet](https://codeforces.com/contest/1862/problem/A) | [GNU C++20 (64)](./codeforces/1862/A.cpp) | `dp` `greedy` `implementation` `strings` `*800` | Nov/16/2023 20:12 | 
+49 | [C - Vlad Building Beautiful Array](https://codeforces.com/contest/1833/problem/C) | [GNU C++20 (64)](./codeforces/1833/C.cpp) | `greedy` `math` `*800` | Nov/16/2023 11:31 | 
+48 | [B - Restore the Weather](https://codeforces.com/contest/1833/problem/B) | [GNU C++20 (64)](./codeforces/1833/B.cpp) | `greedy` `sortings` `*900` | Nov/16/2023 11:14 | 
+47 | [A - Musical Puzzle](https://codeforces.com/contest/1833/problem/A) | [GNU C++20 (64)](./codeforces/1833/A.cpp) | `implementation` `strings` `*800` | Nov/16/2023 10:43 | 
+46 | [F - Minimum Maximum Distance](https://codeforces.com/contest/1881/problem/F) | [GNU C++20 (64)](./codeforces/1881/F.cpp) | `dfs and similar` `dp` `graphs` `shortest paths` `trees` `*1700` | Nov/15/2023 21:55 | 
 45 | [E - Block Sequence](https://codeforces.com/contest/1881/problem/E) | [GNU C++20 (64)](./codeforces/1881/E.cpp) | `dp` `*1500` | Nov/15/2023 10:55 | 
 44 | [D - Divide and Equalize](https://codeforces.com/contest/1881/problem/D) | [GNU C++20 (64)](./codeforces/1881/D.cpp) | `math` `number theory` `*1300` | Nov/15/2023 00:41 | 
 43 | [C - Perfect Square](https://codeforces.com/contest/1881/problem/C) | [GNU C++20 (64)](./codeforces/1881/C.cpp) | `brute force` `implementation` `*1200` | Nov/15/2023 00:20 | 
