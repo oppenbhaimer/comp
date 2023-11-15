@@ -680,5 +680,21 @@
       "*1200"
     ],
     "timestamp": "Nov/12/2023 19:05"
+  },
+  "CF232815091": {
+    "contest_id": 1881,
+    "language": "GNU C++20 (64)",
+    "path": "codeforces/1881/E.cpp",
+    "platform": "Codeforces",
+    "problem_index": "E",
+    "problem_name": "Block Sequence",
+    "problem_url": "https://codeforces.com/contest/1881/problem/E",
+    "submission_id": "CF232815091",
+    "submission_url": "https://codeforces.com/contest/1881/submission/232815091",
+    "tags": [
+      "dp",
+      "*1500"
+    ],
+    "timestamp": "Nov/15/2023 10:55"
   }
 }
