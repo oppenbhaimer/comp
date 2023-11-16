@@ -12,8 +12,9 @@ A repository to keep track of problem solving practice, containing solutions fro
 
 | # | Title | Solution | Tags | Submitted |
 |---| ----- | -------- | ---- | --------- |
-47 | [E - Kolya and Movie Theatre](https://codeforces.com/contest/1862/problem/E) | [GNU C++20 (64)](./codeforces/1862/E.cpp) | `constructive algorithms` `data structures` `greedy` `*1600` | Nov/17/2023 00:12 | 
-46 | [F - Magic Will Save the World](https://codeforces.com/contest/1862/problem/F) | [GNU C++20 (64)](./codeforces/1862/F.cpp) | `binary search` `bitmasks` `brute force` `dp` `*1800` | Nov/16/2023 23:57 | 
+48 | [E - Kolya and Movie Theatre](https://codeforces.com/contest/1862/problem/E) | [GNU C++20 (64)](./codeforces/1862/E.cpp) | `constructive algorithms` `data structures` `greedy` `*1600` | Nov/17/2023 00:12 | 
+47 | [F - Magic Will Save the World](https://codeforces.com/contest/1862/problem/F) | [GNU C++20 (64)](./codeforces/1862/F.cpp) | `binary search` `bitmasks` `brute force` `dp` `*1800` | Nov/16/2023 23:57 | 
+46 | [D - Ice Cream Balls](https://codeforces.com/contest/1862/problem/D) | [Java 21](./codeforces/1862/D.java) | `binary search` `combinatorics` `constructive algorithms` `math` `*1300` | Nov/16/2023 21:22 | 
 45 | [E - Block Sequence](https://codeforces.com/contest/1881/problem/E) | [GNU C++20 (64)](./codeforces/1881/E.cpp) | `dp` `*1500` | Nov/15/2023 10:55 | 
 44 | [D - Divide and Equalize](https://codeforces.com/contest/1881/problem/D) | [GNU C++20 (64)](./codeforces/1881/D.cpp) | `math` `number theory` `*1300` | Nov/15/2023 00:41 | 
 43 | [C - Perfect Square](https://codeforces.com/contest/1881/problem/C) | [GNU C++20 (64)](./codeforces/1881/C.cpp) | `brute force` `implementation` `*1200` | Nov/15/2023 00:20 | 
