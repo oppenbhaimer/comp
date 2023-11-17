@@ -13,15 +13,16 @@ A repository to keep track of problem solving practice, containing solutions fro
 
 | # | Title | Solution | Tags | Submitted |
 |---| ----- | -------- | ---- | --------- |
-64 | [D - Yarik and Musical Notes](https://codeforces.com/contest/1899/problem/D) | [GNU C++20 (64)](./codeforces/1899/D.cpp) | `hashing` `math` `number theory` | Nov/19/2023 22:30 | 
-63 | [C - Colorful Grid](https://codeforces.com/contest/1898/problem/C) | [GNU C++20 (64)](./codeforces/1898/C.cpp) | `constructive algorithms` | Nov/19/2023 21:04 | 
-62 | [A - Milica and String](https://codeforces.com/contest/1898/problem/A) | [GNU C++20 (64)](./codeforces/1898/A.cpp) | `brute force` `implementation` `strings` | Nov/19/2023 20:15 | 
-61 | [E - Stamp](https://atcoder.jp/contests/abc329/tasks/abc329_e) | [C++ 20 (gcc 12.2)](./atcoder/abc329/E.cpp) | `AtCoder` `*475` | Nov/18/2023 18:46 | 
-60 | [F - Colored Ball](https://atcoder.jp/contests/abc329/tasks/abc329_f) | [C++ 20 (gcc 12.2)](./atcoder/abc329/F.cpp) | `AtCoder` `*500` | Nov/18/2023 18:13 | 
-59 | [D - Election Quick Report](https://atcoder.jp/contests/abc329/tasks/abc329_d) | [C++ 20 (gcc 12.2)](./atcoder/abc329/D.cpp) | `AtCoder` `*350` | Nov/18/2023 17:43 | 
-58 | [C - Count xxx](https://atcoder.jp/contests/abc329/tasks/abc329_c) | [C++ 20 (gcc 12.2)](./atcoder/abc329/C.cpp) | `AtCoder` `*300` | Nov/18/2023 17:36 | 
-57 | [B - Next](https://atcoder.jp/contests/abc329/tasks/abc329_b) | [C++ 20 (gcc 12.2)](./atcoder/abc329/B.cpp) | `AtCoder` `*200` | Nov/18/2023 17:32 | 
-56 | [A - Spread](https://atcoder.jp/contests/abc329/tasks/abc329_a) | [C++ 20 (gcc 12.2)](./atcoder/abc329/A.cpp) | `AtCoder` `*100` | Nov/18/2023 17:31 | 
+65 | [D - Yarik and Musical Notes](https://codeforces.com/contest/1899/problem/D) | [GNU C++20 (64)](./codeforces/1899/D.cpp) | `hashing` `math` `number theory` | Nov/19/2023 22:30 | 
+64 | [C - Colorful Grid](https://codeforces.com/contest/1898/problem/C) | [GNU C++20 (64)](./codeforces/1898/C.cpp) | `constructive algorithms` | Nov/19/2023 21:04 | 
+63 | [A - Milica and String](https://codeforces.com/contest/1898/problem/A) | [GNU C++20 (64)](./codeforces/1898/A.cpp) | `brute force` `implementation` `strings` | Nov/19/2023 20:15 | 
+62 | [E - Stamp](https://atcoder.jp/contests/abc329/tasks/abc329_e) | [C++ 20 (gcc 12.2)](./atcoder/abc329/E.cpp) | `AtCoder` `*475` | Nov/18/2023 18:46 | 
+61 | [F - Colored Ball](https://atcoder.jp/contests/abc329/tasks/abc329_f) | [C++ 20 (gcc 12.2)](./atcoder/abc329/F.cpp) | `AtCoder` `*500` | Nov/18/2023 18:13 | 
+60 | [D - Election Quick Report](https://atcoder.jp/contests/abc329/tasks/abc329_d) | [C++ 20 (gcc 12.2)](./atcoder/abc329/D.cpp) | `AtCoder` `*350` | Nov/18/2023 17:43 | 
+59 | [C - Count xxx](https://atcoder.jp/contests/abc329/tasks/abc329_c) | [C++ 20 (gcc 12.2)](./atcoder/abc329/C.cpp) | `AtCoder` `*300` | Nov/18/2023 17:36 | 
+58 | [B - Next](https://atcoder.jp/contests/abc329/tasks/abc329_b) | [C++ 20 (gcc 12.2)](./atcoder/abc329/B.cpp) | `AtCoder` `*200` | Nov/18/2023 17:32 | 
+57 | [A - Spread](https://atcoder.jp/contests/abc329/tasks/abc329_a) | [C++ 20 (gcc 12.2)](./atcoder/abc329/A.cpp) | `AtCoder` `*100` | Nov/18/2023 17:31 | 
+56 | [F - Alex's whims](https://codeforces.com/contest/1899/problem/F) | [GNU C++20 (64)](./codeforces/1899/F.cpp) | `constructive algorithms` `graphs` `greedy` `shortest paths` `trees` | Nov/17/2023 21:34 | 
 55 | [E - Kolya and Movie Theatre](https://codeforces.com/contest/1862/problem/E) | [GNU C++20 (64)](./codeforces/1862/E.cpp) | `constructive algorithms` `data structures` `greedy` `*1600` | Nov/17/2023 00:12 | 
 54 | [F - Magic Will Save the World](https://codeforces.com/contest/1862/problem/F) | [GNU C++20 (64)](./codeforces/1862/F.cpp) | `binary search` `bitmasks` `brute force` `dp` `*1800` | Nov/16/2023 23:57 | 
 53 | [D - Ice Cream Balls](https://codeforces.com/contest/1862/problem/D) | [Java 21](./codeforces/1862/D.java) | `binary search` `combinatorics` `constructive algorithms` `math` `*1300` | Nov/16/2023 21:22 | 
