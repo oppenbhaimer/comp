@@ -1041,6 +1041,23 @@
     ],
     "timestamp": "Nov/17/2023 00:12"
   },
+  "CF233145190": {
+    "contest_id": 1899,
+    "language": "GNU C++20 (64)",
+    "path": "codeforces/1899/B.cpp",
+    "platform": "Codeforces",
+    "problem_index": "B",
+    "problem_name": "250 Thousand Tons of TNT",
+    "problem_url": "https://codeforces.com/contest/1899/problem/B",
+    "submission_id": "CF233145190",
+    "submission_url": "https://codeforces.com/contest/1899/submission/233145190",
+    "tags": [
+      "brute force",
+      "implementation",
+      "number theory"
+    ],
+    "timestamp": "Nov/17/2023 21:01"
+  },
   "CF233159494": {
     "contest_id": 1899,
     "language": "GNU C++20 (64)",
