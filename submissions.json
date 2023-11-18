@@ -79,6 +79,22 @@
     ],
     "timestamp": "Sep/20/2023 22:00"
   },
+  "AC47708797": {
+    "contest_id": "abc329",
+    "language": "C++ 20 (gcc 12.2)",
+    "path": "atcoder/abc329/F.cpp",
+    "platform": "AtCoder",
+    "problem_index": "F",
+    "problem_name": "Colored Ball",
+    "problem_url": "https://atcoder.jp/contests/abc329/tasks/abc329_f",
+    "submission_id": "AC47708797",
+    "submission_url": "https://atcoder.jp/contests/abc329/submissions/47708797",
+    "tags": [
+      "AtCoder",
+      "*500"
+    ],
+    "timestamp": "Nov/18/2023 18:13"
+  },
   "AC47720610": {
     "contest_id": "abc329",
     "language": "C++ 20 (gcc 12.2)",

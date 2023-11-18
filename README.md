@@ -13,7 +13,8 @@ A repository to keep track of problem solving practice, containing solutions fro
 
 | # | Title | Solution | Tags | Submitted |
 |---| ----- | -------- | ---- | --------- |
-56 | [E - Stamp](https://atcoder.jp/contests/abc329/tasks/abc329_e) | [C++ 20 (gcc 12.2)](./atcoder/abc329/E.cpp) | `AtCoder` `*475` | Nov/18/2023 18:46 | 
+57 | [E - Stamp](https://atcoder.jp/contests/abc329/tasks/abc329_e) | [C++ 20 (gcc 12.2)](./atcoder/abc329/E.cpp) | `AtCoder` `*475` | Nov/18/2023 18:46 | 
+56 | [F - Colored Ball](https://atcoder.jp/contests/abc329/tasks/abc329_f) | [C++ 20 (gcc 12.2)](./atcoder/abc329/F.cpp) | `AtCoder` `*500` | Nov/18/2023 18:13 | 
 55 | [E - Kolya and Movie Theatre](https://codeforces.com/contest/1862/problem/E) | [GNU C++20 (64)](./codeforces/1862/E.cpp) | `constructive algorithms` `data structures` `greedy` `*1600` | Nov/17/2023 00:12 | 
 54 | [F - Magic Will Save the World](https://codeforces.com/contest/1862/problem/F) | [GNU C++20 (64)](./codeforces/1862/F.cpp) | `binary search` `bitmasks` `brute force` `dp` `*1800` | Nov/16/2023 23:57 | 
 53 | [D - Ice Cream Balls](https://codeforces.com/contest/1862/problem/D) | [Java 21](./codeforces/1862/D.java) | `binary search` `combinatorics` `constructive algorithms` `math` `*1300` | Nov/16/2023 21:22 | 
