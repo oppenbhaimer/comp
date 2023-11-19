@@ -13,8 +13,9 @@ A repository to keep track of problem solving practice, containing solutions fro
 
 | # | Title | Solution | Tags | Submitted |
 |---| ----- | -------- | ---- | --------- |
-63 | [D - Yarik and Musical Notes](https://codeforces.com/contest/1899/problem/D) | [GNU C++20 (64)](./codeforces/1899/D.cpp) | `hashing` `math` `number theory` | Nov/19/2023 22:30 | 
-62 | [C - Colorful Grid](https://codeforces.com/contest/1898/problem/C) | [GNU C++20 (64)](./codeforces/1898/C.cpp) | `constructive algorithms` | Nov/19/2023 21:04 | 
+64 | [D - Yarik and Musical Notes](https://codeforces.com/contest/1899/problem/D) | [GNU C++20 (64)](./codeforces/1899/D.cpp) | `hashing` `math` `number theory` | Nov/19/2023 22:30 | 
+63 | [C - Colorful Grid](https://codeforces.com/contest/1898/problem/C) | [GNU C++20 (64)](./codeforces/1898/C.cpp) | `constructive algorithms` | Nov/19/2023 21:04 | 
+62 | [A - Milica and String](https://codeforces.com/contest/1898/problem/A) | [GNU C++20 (64)](./codeforces/1898/A.cpp) | `brute force` `implementation` `strings` | Nov/19/2023 20:15 | 
 61 | [E - Stamp](https://atcoder.jp/contests/abc329/tasks/abc329_e) | [C++ 20 (gcc 12.2)](./atcoder/abc329/E.cpp) | `AtCoder` `*475` | Nov/18/2023 18:46 | 
 60 | [F - Colored Ball](https://atcoder.jp/contests/abc329/tasks/abc329_f) | [C++ 20 (gcc 12.2)](./atcoder/abc329/F.cpp) | `AtCoder` `*500` | Nov/18/2023 18:13 | 
 59 | [D - Election Quick Report](https://atcoder.jp/contests/abc329/tasks/abc329_d) | [C++ 20 (gcc 12.2)](./atcoder/abc329/D.cpp) | `AtCoder` `*350` | Nov/18/2023 17:43 | 
