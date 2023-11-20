@@ -13,6 +13,7 @@ A repository to keep track of problem solving practice, containing solutions fro
 
 | # | Title | Solution | Tags | Submitted |
 |---| ----- | -------- | ---- | --------- |
+69 | [E - Living Sequence](https://codeforces.com/contest/1811/problem/E) | [PyPy 3-64](./codeforces/1811/E.py) | `binary search` `dp` `math` `number theory` `*1500` | Nov/20/2023 17:19 | 
 68 | [D - Yarik and Musical Notes](https://codeforces.com/contest/1899/problem/D) | [GNU C++20 (64)](./codeforces/1899/D.cpp) | `hashing` `math` `number theory` | Nov/19/2023 22:30 | 
 67 | [C - Colorful Grid](https://codeforces.com/contest/1898/problem/C) | [GNU C++20 (64)](./codeforces/1898/C.cpp) | `constructive algorithms` | Nov/19/2023 21:04 | 
 66 | [A - Milica and String](https://codeforces.com/contest/1898/problem/A) | [GNU C++20 (64)](./codeforces/1898/A.cpp) | `brute force` `implementation` `strings` | Nov/19/2023 20:15 | 
