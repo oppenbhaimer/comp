@@ -13,6 +13,7 @@ A repository to keep track of problem solving practice, containing solutions fro
 
 | # | Title | Solution | Tags | Submitted |
 |---| ----- | -------- | ---- | --------- |
+71 | [C - Smilo and Monsters](https://codeforces.com/contest/1891/problem/C) | [GNU C++20 (64)](./codeforces/1891/C.cpp) | `binary search` `constructive algorithms` `greedy` `sortings` `two pointers` `*1500` | Nov/21/2023 18:12 | 
 70 | [E - Living Sequence](https://codeforces.com/contest/1811/problem/E) | [PyPy 3-64](./codeforces/1811/E.py) | `binary search` `dp` `math` `number theory` `*1500` | Nov/20/2023 17:19 | 
 69 | [B - Milena and Admirer](https://codeforces.com/contest/1898/problem/B) | [GNU C++20 (64)](./codeforces/1898/B.cpp) | `greedy` `math` | Nov/20/2023 11:38 | 
 68 | [D - Yarik and Musical Notes](https://codeforces.com/contest/1899/problem/D) | [GNU C++20 (64)](./codeforces/1899/D.cpp) | `hashing` `math` `number theory` | Nov/19/2023 22:30 | 

@@ -1194,5 +1194,25 @@
       "*1500"
     ],
     "timestamp": "Nov/20/2023 17:19"
+  },
+  "CF233686590": {
+    "contest_id": 1891,
+    "language": "GNU C++20 (64)",
+    "path": "codeforces/1891/C.cpp",
+    "platform": "Codeforces",
+    "problem_index": "C",
+    "problem_name": "Smilo and Monsters",
+    "problem_url": "https://codeforces.com/contest/1891/problem/C",
+    "submission_id": "CF233686590",
+    "submission_url": "https://codeforces.com/contest/1891/submission/233686590",
+    "tags": [
+      "binary search",
+      "constructive algorithms",
+      "greedy",
+      "sortings",
+      "two pointers",
+      "*1500"
+    ],
+    "timestamp": "Nov/21/2023 18:12"
   }
 }
