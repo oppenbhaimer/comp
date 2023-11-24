@@ -1250,6 +1250,26 @@
     ],
     "timestamp": "Nov/22/2023 23:16"
   },
+  "CF234150771": {
+    "contest_id": 1901,
+    "language": "GNU C++20 (64)",
+    "path": "codeforces/1901/D.cpp",
+    "platform": "Codeforces",
+    "problem_index": "D",
+    "problem_name": "Yet Another Monster Fight",
+    "problem_url": "https://codeforces.com/contest/1901/problem/D",
+    "submission_id": "CF234150771",
+    "submission_url": "https://codeforces.com/contest/1901/submission/234150771",
+    "tags": [
+      "binary search",
+      "dp",
+      "greedy",
+      "implementation",
+      "math",
+      "*1700"
+    ],
+    "timestamp": "Nov/25/2023 02:30"
+  },
   "CF234249222": {
     "contest_id": 1896,
     "language": "GNU C++20 (64)",
