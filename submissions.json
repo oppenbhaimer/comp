@@ -1429,6 +1429,22 @@
     ],
     "timestamp": "Nov/26/2023 21:22"
   },
+  "CF235863816": {
+    "contest_id": 1907,
+    "language": "GNU C++20 (64)",
+    "path": "codeforces/1907/A.cpp",
+    "platform": "Codeforces",
+    "problem_index": "A",
+    "problem_name": "Rook",
+    "problem_url": "https://codeforces.com/contest/1907/problem/A",
+    "submission_id": "CF235863816",
+    "submission_url": "https://codeforces.com/contest/1907/submission/235863816",
+    "tags": [
+      "implementation",
+      "*800"
+    ],
+    "timestamp": "Dec/05/2023 20:20"
+  },
   "CF235896253": {
     "contest_id": 1907,
     "language": "GNU C++20 (64)",
