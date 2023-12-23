@@ -13,6 +13,7 @@ A repository to keep track of problem solving practice, containing solutions fro
 
 | # | Title | Solution | Tags | Submitted |
 |---| ----- | -------- | ---- | --------- |
+97 | [F - Programming Competition](https://codeforces.com/contest/1914/problem/F) | [GNU C++20 (64)](./codeforces/1914/F.cpp) | `dfs and similar` `dp` `graph matchings` `greedy` `trees` | Dec/23/2023 11:11 | 
 96 | [E2 - Game with Marbles (Hard Version)](https://codeforces.com/contest/1914/problem/E2) | [GNU C++20 (64)](./codeforces/1914/E2.cpp) | `games` `greedy` `sortings` | Dec/19/2023 21:35 | 
 95 | [E1 - Game with Marbles (Easy Version)](https://codeforces.com/contest/1914/problem/E1) | [GNU C++20 (64)](./codeforces/1914/E1.cpp) | `brute force` `games` `greedy` `sortings` | Dec/19/2023 21:34 | 
 94 | [C - Quests](https://codeforces.com/contest/1914/problem/C) | [GNU C++20 (64)](./codeforces/1914/C.cpp) | `greedy` `math` | Dec/19/2023 20:48 | 
